@@ -1,0 +1,1 @@
+{"parent":null,"pid":6195,"argv":["/usr/bin/node","/usr/bin/npm","run","test"],"execArgv":[],"cwd":"/home/alberto/api-movies","time":1619127075505,"ppid":6183,"coverageFilename":"/home/alberto/api-movies/.nyc_output/0d6eaefc-8312-4128-89bc-2f85951fe92e.json","externalId":"","uuid":"0d6eaefc-8312-4128-89bc-2f85951fe92e","files":[]}
